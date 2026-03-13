@@ -1,0 +1,83 @@
+# $uicideboy$ – The Light at the End of the Tunnel for $9.99 a Month
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.06] Only once the drugs are done
+[00:03.03] Hearin' my name, goin' insane
+[00:04.73] Mane, this shit is like every day
+[00:06.14] You did good, $lick (I feel like dying)
+[00:08.97] Oh, my God (I fell like dying)
+[00:11.05] That's the biggest fuck up, I'm sorry
+[00:29.55] 
+[00:12.59] Goin' insane (it's a smash), goin' insane
+[00:14.18] Mane, this shit is like every day
+[00:15.73] Hearin' my name, goin' insane
+[00:17.36] Hearin' my name, hearin' my-hearin' my-
+[00:19.00] Goin' insane, goin' insane
+[00:20.67] Mane, this shit is like every day
+[00:22.18] Hearin' my name, goin' insane
+[00:23.71] Hearin' my name, hearin' my- hearin' my-
+[00:43.71] 
+[00:25.27] Goin' insane, goin' insane
+[00:27.00] Goin' insane, goin' in-goin' in-
+[00:28.45] Mane, this shit is like every day
+[00:30.24] Mane, this shit is like every day
+[00:31.75] Goin' insane, goin' insane
+[00:33.38] Mane, this shit is like every day
+[00:34.67] Hearin' my name, goin' insane
+[00:36.44] Hearin' my name, hearin' my-hearin' my-
+[00:55.94] 
+[00:37.57] Y'all worried 'bout the reposts
+[00:39.47] But I'm worried 'bout the relapse (yeah)
+[00:40.98] Let's recap, life ain't been the same, since I left rehab (yah, yah)
+[00:44.13] Exposin' to my opps all the spots where I'm weak at
+[00:47.53] And then, flex on the rest, while I act like, I don't need claps
+[01:19.53] 
+[00:50.68] Gave this girl my heart and this bitch said that she gon' need half
+[00:53.86] Paranoid, I'm peakin' through the blinds, without a tweed hat
+[00:57.02] Locked up in my head, like I forgot the code to the keypad
+[01:00.17] Been running this whole game, like ankles and kneecaps
+[01:27.17] 
+[01:03.42] One day, I'll disappear, and you won't know, when I'll be back
+[01:06.47] I'll be so camouflaged, I'll shoot myself and bleed out tree sap
+[01:09.60] Hidin' from how I feel, will never work and I see that
+[01:12.77] Keep my nose clean, but I'm still askin' where the weed at
+[01:41.77] 
+[01:16.13] Goin' insane, goin' insane
+[01:17.76] Goin' insane, goin' in-goin' in-
+[01:19.27] Mane, this shit is like every day
+[01:21.01] Mane, this shit is like every day
+[01:22.19] Where are my motherfuckin' pills?
+[01:24.13] Mane, this shit is like every day
+[01:25.52] Hearin' my name, goin' insane
+[01:40.02] 
+[01:27.17] Yeah, no stoppin', just popped me like five percs
+[01:29.62] Nine bars, got dreams of jumpin' off top floors
+[01:32.03] I'm rummagin' all through my sock drawer
+[01:33.34] Before they put me back behind locked doors
+[01:35.13] More Opium than the Afghan war
+[01:36.69] Floodin' the front of my brain (let's go!)
+[01:38.19] I'm givin' them warnings, the flights that I'm boardin'
+[01:39.99] Got no pilots up in the plane (turn me up)
+[02:00.99] 
+[01:41.46] Life aimless and passin' me by, yeah
+[01:43.06] I'm famous for chasin' a high, yeah
+[01:44.53] Couldn't do what I do, if they tried, nah
+[01:46.14] I'm built for war and they built to die
+[01:48.04] On that bad shit, as Germ would say (bad shit)
+[01:49.52] I know, I'm duckin' but bitch, quit yellin'
+[01:50.97] Fuckin' up my vibe, I'm wide awake
+[01:52.68] I feel like dyin' but not today, I
+[02:09.68] 
+[01:55.20] Got everyone trippin', wonderin' if I'm slippin' all from the music (North)
+[01:58.64] If I gotta pick, the drugs or a bitch, you know what I'm choosin' (North)
+[02:01.90] Said that he gang, but we ain't the same, just look how he movin'
+[02:04.87] I used to get high, but now at best, I'm just goin' through it (Wetto)
+[02:39.87] 
+[02:07.66] Only once the drugs are done
+[02:10.27] Hearin' my name, goin' insane
+[02:11.97] Mane, this shit is like every day
+[02:13.43] I feel like dying
+[02:16.40] I feel like dying
+```
