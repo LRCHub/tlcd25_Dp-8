@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "The Light at the End of the Tunnel for $9.99 a Month",
+  "base_artist": "$uicideboy$",
+  "createdAt": "2026-03-13T13:38:34.478238Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Light At The End Of The Tunnel For $99 A Month",
+      "artist": "Suicideboys",
+      "has_synced": true,
+      "path": "select/01_The_Light_At_The_End_Of_The_Tunnel_For_$99_A_Month_Suicideboys.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Light at the End of the Tunnel for $9.99 a Month",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/02_The_Light_at_the_End_of_the_Tunnel_for_$9.99_a_Month_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Light at the End of the Tunnel for $9.99 a Month",
+      "artist": "Suicideboys",
+      "has_synced": true,
+      "path": "select/03_The_Light_at_the_End_of_the_Tunnel_for_$9.99_a_Month_Suicideboys.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Light at the End of the Tunnel for $9․99 a Month",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/04_The_Light_at_the_End_of_the_Tunnel_for_$9.99_a_Month_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Light at the End of the Tunnel for $9.99 a Month (Paused)",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/05_The_Light_at_the_End_of_the_Tunnel_for_$9.99_a_Month_(Paused)_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "the light at the end of the tunnel for $9.99 a month (lyric video)",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/06_the_light_at_the_end_of_the_tunnel_for_$9.99_a_month_(lyric_video)_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "$UICIDEBOY$- THE LIGHT AT THE END OF THE TUNNEL FOR $9.99 A MONTH (Lyric Video)",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/07_$UICIDEBOY$-_THE_LIGHT_AT_THE_END_OF_THE_TUNNEL_FOR_$9.99_A_MONTH_(Lyric_Video)_$uicideboy$.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Light at the End of the Tunnel for $9.99 a Month",
+      "artist": "$uicideboy$",
+      "has_synced": false,
+      "path": "select/pl_01_The_Light_at_the_End_of_the_Tunnel_for_$9.99_a_Month_$uicideboy$.txt"
+    }
+  ]
+}
